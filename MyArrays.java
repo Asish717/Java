@@ -25,5 +25,6 @@ public class MyArrays {
 //        }
         System.out.println("No of even numbers "+count);
         System.out.println("Sum of even numbers "+sum);
+//        System.out.println("printing the array"+myarray);
     }
 }
